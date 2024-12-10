@@ -1,0 +1,3 @@
+D:/derasa/clion projects/photo processing (filters)/cmake-build-debug/CMakeFiles/filters_project.dir
+D:/derasa/clion projects/photo processing (filters)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/derasa/clion projects/photo processing (filters)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
