@@ -11,4 +11,8 @@ management and user experience.
 5) The Vole machine is a simple computing architecture that operates on a set of instructions stored 
 in memory. It uses a register file and an arithmetic logic unit (ALU) to execute instructions. This 
 report provides a detailed explanation of the code structure and the algorithms implemented within 
-the Vole machine. 
+the Vole machine.
+6)InvestEase: Financial App Development 
+  Mastered creating UML diagrams (architecture, class, sequence, state) to model the InvestEase system's structure, interactions, and behavior, ensuring a clear and organized development.
+  Applied SOLID principles (e.g., Single Responsibility, Open/Closed) and design patterns (Façade, Composite, Observer) to build maintainable, scalable, and modular Java code for InvestEase.
+  Developed skills in integrating features like portfolio tracking and zakat compliance using Java and modern backend technologies, while evaluating LCNC tools (Glide, Bubble) for rapid, cross-platform app development.
