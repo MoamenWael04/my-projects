@@ -1,0 +1,3 @@
+D:/derasa/clion projects/vole machine/cmake-build-debug/CMakeFiles/vole_machine.dir
+D:/derasa/clion projects/vole machine/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/derasa/clion projects/vole machine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
