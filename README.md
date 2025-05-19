@@ -4,3 +4,7 @@
 a-row, 5 x 5 Tic-Tac-Toe, Word Tic-Tac-Toe, Numerical Tic-Tac-Toe, Misere Tic-Tac-Toe, Ultimate Tic
 Tac-Toe and SUS) , i've learned from it how to be capable to understand OOP princibles and how to use it correctly
 3) cypher program which is used to sypher or decypher any text u write in 3 ways (baconian , affine , XOR )
+4) Full Stack Web Development  Designed a responsive, role-specific user interface using HTML, CSS, and JavaScript for dynamic inter-
+actions, including a navigation bar that adjusts based on user role and interactive task lists. Integrated
+Django’s backend, using HTML templates, JavaScript for client-side interactivity. ensuring seamless task
+management and user experience.
