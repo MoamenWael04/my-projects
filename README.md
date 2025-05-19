@@ -8,3 +8,7 @@ Tac-Toe and SUS) , i've learned from it how to be capable to understand OOP prin
 actions, including a navigation bar that adjusts based on user role and interactive task lists. Integrated
 Django’s backend, using HTML templates, JavaScript for client-side interactivity. ensuring seamless task
 management and user experience.
+5) The Vole machine is a simple computing architecture that operates on a set of instructions stored 
+in memory. It uses a register file and an arithmetic logic unit (ALU) to execute instructions. This 
+report provides a detailed explanation of the code structure and the algorithms implemented within 
+the Vole machine. 
